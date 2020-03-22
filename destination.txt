@@ -1,0 +1,1 @@
+I am a source file which would be copied by a method called "copyFileSync()" and a new file would be created.
